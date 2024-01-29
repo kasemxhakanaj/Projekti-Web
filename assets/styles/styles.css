@@ -458,6 +458,22 @@ body.order-body {
   align-items: center;
 }
 
+#apply-promo-code-btn {
+  background-color: #4CAF50; /* Green background color */
+  color: white; /* White text color */
+  padding: 10px 20px; /* Padding for better appearance */
+  font-size: 16px; /* Font size */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Add a slight border-radius for rounded corners */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+/* Add a hover effect */
+#apply-promo-code-btn:hover {
+  background-color: #45a049;
+}
+
+
 /**********  Card Section Code Ends  **********/
 
 
